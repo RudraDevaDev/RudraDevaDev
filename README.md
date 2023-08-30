@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **None**
 
-- ⚡ Fun fact **I think I am good at working with people**
+- ⚡ Fun fact **I think I am good at connecting with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
