@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm RudraDevan G</h1>
 <h3 align="center">A Student developing my skills</h3>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Machine Learning and cloud Computing**
 
-- 👯 I’m looking to collaborate on **None**
+- 👯 I’m looking to collaborate on ****
 
-- 🤝 I’m looking for help with **None**
+- 🤝 I’m looking for help with ****
 
 - ⚡ Fun fact **I think I am good at connecting with people**
 
