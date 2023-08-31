@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RudraDevan G</h1>
 <h3 align="center">A Student developing my skills</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15401203-Artificial-intelligence-G-F&psig=AOvVaw2NYmX4fXfmB67ZWmKsxA6y&ust=1693582535866000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjMtIOdh4EDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 - 🔭 I’m currently working on ****
 
