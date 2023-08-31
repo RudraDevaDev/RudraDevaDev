@@ -1,3 +1,4 @@
+![Header](github-header-image-name.png)
 <h1 align="center">Hi 👋, I'm RudraDevan G</h1>
 <h3 align="center">A Student developing my skills</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
