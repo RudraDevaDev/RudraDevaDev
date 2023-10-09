@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Machine Learning and cloud Computing**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on ****
 
