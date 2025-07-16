@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<html>
+  <body bgcolor = "blue"> 
+    <center>Rudra Devan</center><br>
+    <center>|Programmer|Web Developer|3D Modelling & Animation|Game Dev|</center>
+  </body>
+</html>
 <!--
 **RudraDevaDev/RudraDevaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
